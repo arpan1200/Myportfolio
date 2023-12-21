@@ -1,0 +1,23 @@
+@media (max-width: 850px) {
+  body {
+    min-width: 100vw;
+    min-height: 100vh;
+  }
+  .home {
+    width: 100vh;
+    height: 100vh;
+  }
+  .navlist li a {
+    display: none;
+  }
+  .ri-menu-3-line {
+    display: block;
+    font-size: 4vw;
+  }
+  .img-hero img {
+    display: none;
+  }
+  .rotate-text {
+    display: none;
+  }
+}
