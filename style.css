@@ -38,8 +38,7 @@ a {
 body {
   font-family: "Poppins", sans-serif;
   background: var(--bg-color);
-  min-width: 100vw;
-  min-height: 100vw;
+
 }
 
 /* >================================= header area code ==============================> */
